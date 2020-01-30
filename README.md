@@ -1,4 +1,4 @@
-DRIBBLE ClONE
+<h2>Dribble Clone</h2>
 
 I have created a clone of Dribble with the help of Web Crunch videos by Andy Leverenz.
 
