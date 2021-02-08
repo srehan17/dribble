@@ -38,7 +38,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'acts_as_votable', '~> 0.11.1'
 gem 'bulma-rails', '~> 0.6.1'
-gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'carrierwave', '~> 1.3'
 gem 'devise', '~> 4.3'
 # gem 'graphicsmagick', '~> 1.0', '>= 1.0.6'
 gem 'gravatar_image_tag'
